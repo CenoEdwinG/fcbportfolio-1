@@ -39,14 +39,14 @@ footer{
     align-items: center;
 }
 
-.fa-brands, .fa-solid {
+.fa-brands {
     font-size: 25px;
     color: white;
     /* top, right, bottom, left */
     margin: 0 10px;
 }
 
-.fa-brands:hover, .fa-solid:hover {
+.fa-brands:hover {
     color: gray;
     box-shadow: 0 0 20px 0px lightgray
 }
